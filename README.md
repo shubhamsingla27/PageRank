@@ -1,5 +1,5 @@
 # Pagerank
-Make sure you have the ‘web-BerkStan.txt’ in your hdfs directory<br/>
+Make sure you have the ‘[web-BerkStan.txt](https://snap.stanford.edu/data/web-BerkStan.txt.gz)’ in your hdfs directory<br/>
 1.scp the web-BerkStan.txt file to linux machine 
 scp web-BerkStan.txt username@linux.dc.engr.scu.edu:/home/username/<br/>
 2. SSH to SCU cluster system<br/>
